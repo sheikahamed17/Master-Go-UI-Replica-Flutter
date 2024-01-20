@@ -1,5 +1,5 @@
 # samlpe
-
+Figma Link : https://www.figma.com/file/XgO5XNbktQaNdNLGuz2Ljx/MasterGo?type=design&node-id=0%3A1&mode=design&t=viTwgOac5BD9eO5y-1
 A new Flutter project.
 
 ## Getting Started
